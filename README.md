@@ -1,1 +1,1 @@
-# site-speed-chrome-ext
+# Chrome Extension to Check website speed
